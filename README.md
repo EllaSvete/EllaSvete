@@ -4,7 +4,7 @@ I am a full-stack developer with a background in craft and jewelry design. Razor
 
 - 💻 Languages: Python & Javascript
 
-- 😄 Pronouns: She/Her
+- 🏳️‍🌈 Pronouns: She/Her
 
 - 🌱 Looking to grow in my new career
 

@@ -10,8 +10,8 @@ I am a full-stack developer with a background in craft and jewelry design. Razor
 
 ##### Let's Connect!
 
-  - &nbsp; <img src="assets/linkedin.png" width=20/> &nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/ellasvete/) 
-  - &nbsp; <img src="assets/gmail.png" width=20/> [ella.svete@gmail.com)(ella.svete@gmail.com)
+  - &nbsp; <img src="assets/linkedin.png" width=20/> &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/ellasvete/) 
+  - &nbsp; <img src="assets/gmail.png" width=20/> &nbsp;&nbsp; ella.svete@gmail.com
 
 
 <!--

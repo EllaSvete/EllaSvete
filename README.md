@@ -4,13 +4,14 @@ I am a full-stack developer with a background in craft and jewelry design. Razor
 
 - 💻 Languages: Python & Javascript
 
+- 🌱 Currently looking for work 
+
 - 🏳️‍🌈 Pronouns: She/Her
 
-- 🌱 Looking to grow in my new career
+##### Let's Connect!
 
-- 📫 Reach out! :
-  - [LinkedIn](https://www.linkedin.com/in/ellasvete/) 
-  - [Email](ella.svete@gmail.com)
+  - &nbsp; <img src="assets/linkedin.png" width=20/> &nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/ellasvete/) 
+  - &nbsp; <img src="assets/gmail.png" width=20/> [ella.svete@gmail.com)(ella.svete@gmail.com)
 
 
 <!--

@@ -8,7 +8,7 @@ I am a full-stack developer with a background in craft and jewelry design. Razor
 
 - 🏳️‍🌈 Pronouns: She/Her
 
-##### Let's Connect!
+##### 📫 Let's Connect!
 
   - [LinkedIn](https://www.linkedin.com/in/ellasvete/) 
   - ella.svete@gmail.com

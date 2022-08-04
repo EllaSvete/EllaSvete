@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am a full-stack developer with a background in craft and jewelry design. Razor focused on details to fix bugs and find solutions. Passionate about contributing to a more functional and beautiful web space.
+I am a full-stack developer with a background in craft and jewelry design. Laser-focused on details to fix bugs and find solutions. Passionate about contributing to a more functional and beautiful web space.
 
 - 💻 Languages: Python & Javascript
 

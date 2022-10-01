@@ -1,5 +1,7 @@
 ### Hi there 👋 
 
+**My activity has been quite due to finishing up a non-coding project. Can't wait to get back at it!**
+
 I am a full-stack developer with a background in craft and jewelry design. Laser-focused on details to fix bugs and find solutions. Passionate about contributing to a more functional and beautiful web space.
 
 - 💻 Languages: Python & Javascript
